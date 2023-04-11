@@ -5,3 +5,4 @@ $("#hole").on('animationiteration', function () {
     console.log(randomNumber);
     $("#hole").css("top", randomNumber+"px");
 });
+jumping 
